@@ -1,5 +1,5 @@
 # SpaceShooter-CPP
-A graphical Retro SpaceShooter Game 🎮 🚀 made in C++ using SFML Graphics Library
+A graphical Retro Space Invader Game 🎮 🚀 made in C++ using SFML Graphics Library
 
 ### Instructions on how to run the game
 **NOTE: The following commands are to be run on Terminal** 
